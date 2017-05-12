@@ -1,0 +1,1 @@
+mvn clean package tomcat7:deploy -Dtomcat.username=manager-script -Dtomcat.password=pass
